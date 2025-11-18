@@ -1,20 +1,21 @@
 .header {
-    background-color: #F42C04;
+    background-color: #a22a12;
     width: 100%; height: 5vh;
-    padding: 6.7px
+    padding: 8.7px
 
 }
 
 h1 {
-  color: #0d3fa2;
+  color: #F6F5AE;
   text-align: center;
   font-size: 67px;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  box-shadow: 6px 8px 30px rgb(148, 13, 13);
+  box-shadow: 20px 8px 30px rgb(255, 255, 255);
+  height: 89%;
 }
 
 .header {
-    background-image: linear-gradient(to right, red, rgb(255, 255, 255));
+    background-image: linear-gradient(to right, #ae1616);
     height: 200px;
 }
 
