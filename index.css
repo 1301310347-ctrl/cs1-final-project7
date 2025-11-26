@@ -52,3 +52,14 @@ div.header {
 
 }
 
+.main {
+  display: flex;
+  gap: 20px;
+}
+
+.main img {
+  width: 300px;
+  height: auto;
+}
+
+
